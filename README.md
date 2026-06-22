@@ -30,7 +30,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Programming Languages</h2>
+<h2 data-importer="text" align="left">💻Programming Languages</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 data-importer="text" align="right">Frameworks & Databases</h2>
+<h2 data-importer="text" align="right">🗄Frameworks & Databases</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Tools</h2>
+<h2 data-importer="text" align="center">⚙️Tools</h2>
 
 ###
 
@@ -93,7 +93,7 @@
 </div>
 
 ###
-
+📊 GitHub Stats
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
